@@ -55,7 +55,8 @@
 ---
 
 <h2 align="center">📂 Latest Projects / Progetti Recenti</h2>
-
+<!-- LATEST-REPOS:START -->
+<!-- LATEST-REPOS:END -->
 ---
 
 <h2 align="center">📫 How to Reach Me / Come Contattarmi</h2>
