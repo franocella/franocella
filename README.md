@@ -9,7 +9,7 @@
   <br>
   Sono un <strong>laureato in Ingegneria Informatica</strong> e laureando magistrale in <strong>Artificial Intelligence & Data Engineering</strong>. Il mio obiettivo è sviluppare soluzioni software robuste e scalabili, combinando solide pratiche di ingegneria con le tecniche più avanzate di intelligenza artificiale.
   <br><br>
-  Le mie competenze principali includono <strong>Java, Python e C++</strong>, con esperienza su <strong>architetture a microservizi</strong> e metodologie <strong>DevOps (Docker, Git)</strong>.
+  Le mie competenze principali includono <strong>Java, Python e C++</strong>, con una forte padronanza della <strong>programmazione a oggetti</strong>, esperienza su <strong>architetture a microservizi</strong> e metodologie <strong>DevOps (Docker, Git)</strong>.
   </details>
   <br>
   <details>
@@ -17,7 +17,7 @@
   <br>
   I have a <strong>degree in Computer Engineering</strong> and I'm a <strong>Master's student in Artificial Intelligence & Data Engineering</strong>. My focus is on developing robust and scalable software solutions by combining solid engineering practices with state-of-the-art AI techniques.
   <br><br>
-  I have strong skills in <strong>Java, Python, and C++</strong>, with hands-on experience in <strong>microservices architecture</strong> and <strong>DevOps methodologies (Docker, Git)</strong>.
+  I have strong skills in <strong>Java, Python, and C++</strong>, with a solid grasp of <strong>object-oriented programming</strong>, hands-on experience in <strong>microservices architecture</strong> and <strong>DevOps methodologies (Docker, Git)</strong>.
   </details>
 </p>
 
@@ -25,13 +25,13 @@
 
 ### 🔭 Core Interests / Interessi Principali
 
-| English                                                                                              | Italiano                                                                                                |
+| English                                                                                              | Italiano                                                                                                |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Deep Learning:** Building and optimizing effective Deep Learning models (PyTorch).                 | **Deep Learning:** Creare e ottimizzare modelli di Deep Learning efficaci (PyTorch).                    |
-| **Computer Vision:** Exploring generative models (GANs, Diffusion Models) for image synthesis.       | **Computer Vision:** Esplorare modelli generativi (GAN, Diffusion Models) per la sintesi di immagini.   |
-| **Information Retrieval:** Building systems to search, rank, and retrieve relevant data.             | **Information Retrieval:** Realizzare sistemi per cercare, ordinare e recuperare dati rilevanti.        |
-| **Scalable AI Systems:** Designing microservices and leveraging MLOps for seamless model deployment.   | **Sistemi AI Scalabili:** Progettare microservizi e usare pratiche MLOps per integrare i modelli di ML.    |
-| **Software Engineering:** Writing clean, maintainable, and robust code using best practices.         | **Ingegneria del Software:** Scrivere codice pulito, manutenibile e robusto applicando le best practice.   |
+| **Deep Learning:** Building and optimizing effective Deep Learning models (PyTorch).                 | **Deep Learning:** Creare e ottimizzare modelli di Deep Learning efficaci (PyTorch).                    |
+| **Computer Vision:** Exploring generative models (GANs, Diffusion Models) for image synthesis.       | **Computer Vision:** Esplorare modelli generativi (GAN, Diffusion Models) per la sintesi di immagini.   |
+| **Information Retrieval:** Building systems to search, rank, and retrieve relevant data.             | **Information Retrieval:** Realizzare sistemi per cercare, ordinare e recuperare dati rilevanti.        |
+| **Scalable AI Systems:** Designing microservices and leveraging MLOps for seamless model deployment.   | **Sistemi AI Scalabili:** Progettare microservizi e usare pratiche MLOps per integrare i modelli di ML.    |
+| **Software Engineering:** Writing clean, maintainable, and robust code using best practices.         | **Ingegneria del Software:** Scrivere codice pulito, manutenibile e robusto applicando le best practice.   |
 
 ---
 
