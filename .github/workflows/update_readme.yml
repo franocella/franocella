@@ -2,20 +2,24 @@ name: Update README with Latest Repositories
 
 permissions:
   contents: write
-
+  
 on:
   schedule:
+    # Eseguito ogni 6 ore
     - cron: '0 */24 * * *'
   workflow_dispatch: 
+  
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: arpan-ghosh/recent-repos@master
         with:
-          feed_list: "https://github.com/franocella.atom"
-          max_post_count: 3
-          template: "- **[$title]($url)**: *$description...*"
-          readme_path: "README.md"
-          comment_tag_name: "LATEST-REPOS"
+          user: 'franocella'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          readme: 'README.md'
+          comment_tag: 'LATEST-REPOS'
+          template: '- **[$name]($url)**: *$description*'
+          max_repos: 3
